@@ -1,4 +1,4 @@
-# SeperTrunfoRS
+# SuperTrunfoRS
 
 Super Trunfo inspirado em um jogo de MMORPG chamado de Runescape
 
